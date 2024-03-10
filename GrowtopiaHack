@@ -1,27 +1,3 @@
-####
-#### Copyright (C) 2018  K-Ku <> - All Rights Reserved
-#### Ascii made by K-Ku.
-#### Created: 12/12/2023
-#### Usage: ./Ram -option
-####
-
-
-#########################################
-############# SOURCE CODE ###############
-#########################################
-#####   Ram WAS FOUNDED BY K-Ku      ####
-#########################################
-################ 2o23 ###################
-#########################################
-####                                 ####
-#### RAM SOURCE CODE BEGINS HERE     ####
-#### FEEL FREE TO USE AND PLAY WITH  ####
-#### RAM AS YOU WISH ASLONG AS       ####
-#### ORIGIN AUTHOR WILL BE MENTIONED ####
-####                                 ####
-#########################################
-#########################################
-
 
 import tkinter as tk
 from tkinter import messagebox
